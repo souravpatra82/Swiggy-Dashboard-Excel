@@ -1,16 +1,19 @@
-#  Swiggy Sales Dashboard (Excel Project)
+#  Swiggy Sales Dashboard – Food Delivery Analysis
+
+*Analyzing sales performance, customer behavior, and order trends to support data-driven decisions using Microsoft Excel.*
+
 ##  Table of Contents
-- [Dashboard Preview](#dashboard-preview)
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Dashboard Features](#dashboard-features)
-- [Tools & Skills Used](#tools--skills-used)
-- [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
-- [Key Insights](#key-insights)
-- [Business Recommendations](#business-recommendations)
-- [About Me](#about-me)
-- [Contact](#contact)
+- [Dashboard Preview](#-dashboard-preview)
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dashboard Features](#-dashboard-features)
+- [Tools & Skills Used](#-tools--skills-used)
+- [Project Structure](#-project-structure)
+- [How to Use](#-how-to-use)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [About Me](#-about-me)
+- [Contact](#-contact)
 
 ##  Dashboard Preview
 ![Dashboard](https://github.com/souravpatra82/Swiggy-Dashboard-Excel/raw/main/Swiggy-Dashboard-Excel/Swiggy%20Dashboard%20Screen%20short.png)

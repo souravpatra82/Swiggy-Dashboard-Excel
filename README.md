@@ -1,7 +1,7 @@
 #  Swiggy Sales Dashboard (Excel Project)
 
 ##  Dashboard Preview
-https://github.com/souravpatra82/Swiggy-Dashboard-Excel/blob/main/Swiggy-Dashboard-Excel/Swiggy%20Dashboard%20Screen%20short.png
+![Dashboard](https://github.com/souravpatra82/Swiggy-Dashboard-Excel/raw/main/Swiggy-Dashboard-Excel/Swiggy%20Dashboard%20Screen%20short.png)
 
 ---
 
